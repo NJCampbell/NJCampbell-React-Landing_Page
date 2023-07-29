@@ -1,6 +1,9 @@
 body {
     background-color: #606470;
 }
+img {
+    image-rendering: initial;
+}
 
 .btn {
     align-content: center;
